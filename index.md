@@ -7,9 +7,9 @@ layout: default
 
 ## [](#header-2)MBA World Summit
 
-In 2016, we helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and analyzing visitor behavior to reallocate marketing campaign budgets (read more).
+In 2016, we helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and analyzing visitor behavior to reallocate marketing campaign budgets. Check it out [here](http://admissions.mbaworldsummit.com/).
 
 
 ## [](#header-2)Junto
 
-On a recent hackathon, we built a social habit tracking app called Junto. It has since gathered a small but active community of users. You can check it out [here](https://play.google.com/store/apps/details?id=io.pallab.junto).
+On a recent hackathon, we built a social habit tracking app called Junto. It has since gathered a small but active community of users. Get it now for [Android](https://play.google.com/store/apps/details?id=io.pallab.junto) or [iOS](https://itunes.apple.com/us/app/junto-mutual-improvement/id1326121611?mt=8) and implement some healthy habits with some extra motivation and accountability from your friends.
