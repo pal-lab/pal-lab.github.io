@@ -12,6 +12,6 @@ Marienstrasse 49
 
 76137 Karlsruhe
 
-Kontakt: [phil@pallab.io](phil@pallab.io)
+Kontakt: [phil@pallab.io](mailto:phil@pallab.io)
 
 [back](./)
