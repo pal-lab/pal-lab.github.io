@@ -30,7 +30,7 @@ In 2016, we discussed ways to mitigate youth unemployment in Europe in the conte
 
 ## [](#header-2)Appoint
 
-In 2015, a handful of us decided to spend a weekend in Prague trying to simplify the pain in the ass that often starts when 3+ people try to agree on a date and time an appointment (Motto: fuck the maybes.) We failed. While users validated the 'appoint problem', the functional prototype we built during the weekend was not radically improving things.  
+In 2015, we tried to ease the pain that often starts when 3+ people try to find a date and time an appointment on a weekend in Prague (Motto: fuck the maybes.) We failed. While users validated the "appoint problem", the functional prototype we built during the weekend was not radically improving things.  
 `jorrit` `phil` `sven` `gregor` `joe`
 
 
