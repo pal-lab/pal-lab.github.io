@@ -7,7 +7,7 @@ layout: default
 
 ## [](#header-2)Value-Centric Product Management
 
-In 2017, we took a trip to Italy discussing about how to enable data-based, value-centric product management to drive key business metrics more sustainably. We designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. The resulting MVP was Product Hour, a format to help startups with product problems while calibrating our framework. ([read more](http://vcpm.org/))  
+In 2017 we asked us how we might drive product success metrics more sustainably and designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. The resulting MVP was 'Product Hour', a format in which we now calibrate the framework while helping start-ups with real product challenges. ([read more](http://vcpm.org/))  
 _involved pals:_ `olli` `phil` `joe` `jorrit`
 
 ## [](#header-2)MBA World Summit
