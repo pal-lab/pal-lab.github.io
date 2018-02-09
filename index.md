@@ -5,7 +5,7 @@ layout: default
 # [](#header-1)Projects
 
 
-## [](#header-2)Value-Centric Product Management
+## [](#header-2)Value-Centric Product Management (VCPM)
 
 In 2017 we asked us how we might drive product success metrics more sustainably and designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In occasional _Product Hours_, we calibrate the framework while helping start-ups with real product challenges. ([read more](http://vcpm.org/))  
 `olli` `phil` `joe` `jorrit`
@@ -23,7 +23,7 @@ On a hackathon in 2016, we built a social habit tracking app for fun. It has sin
 
 ## [](#header-2)World Bank Youth Summit
 
-In 2016, we discussed ways to mitigate youth unemployment in Europe in the context of the World Bank Youth Summit. The result of the session was a proposal for a web platform paving the way from education to employment.([read more](https://slack-files.com/T04HW89Q0-F2JBVQZ5F-b25d555850))  
+In 2016, we discussed ways to mitigate youth unemployment in Europe in the context of the World Bank Youth Summit. The result of the session was a proposal for a web platform paving the way from education to employment. ([read more](https://slack-files.com/T04HW89Q0-F2JBVQZ5F-b25d555850))  
 `alex` `sven` `phil` `chris` 
 
 
