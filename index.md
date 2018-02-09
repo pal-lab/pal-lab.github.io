@@ -34,6 +34,4 @@ In 2014, we helped Johnson Controls define a new product vision that radically p
 _involved pals:_ `phil`
 
 
-
-
-[pals](pals).
+[About](pals).
