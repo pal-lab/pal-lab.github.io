@@ -33,4 +33,4 @@ In 2015, we tried to ease the pain that often starts when 3+ people try to find 
 `jorrit` `phil` `sven` `gregor` `joe`
 
 * * *
-[](#header-6)[about](about) • [](#header-6)[imprint](imprint)     
+[](#header-6)[imprint](imprint) • [](#header-6)[contact](contact) • [](#header-6)[about](about)     

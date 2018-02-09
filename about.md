@@ -4,6 +4,6 @@ layout: default
 
 ## About
 
-If you want to get in touch, drop us a message via [info@pallab.io](mailto:info@pallab.io)
+We're a network of pals striving for mutual improvement, inspired by Benjamin Franklin's [Junto Club](http://www.benjamin-franklin-history.org/junto-club/). We live out a shared passion for learning in regular discussions and occasionally some ideas become projects.
 
 [back](./)
