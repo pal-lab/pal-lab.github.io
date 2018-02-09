@@ -11,7 +11,7 @@ Since 2016, we've helped the [MBA World Summit](http://mbaworldsummit.com/) to d
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
 
-In 2017 we were looking for ways to drive product success metrics more sustainably and designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In occasional _Product Hours_, we calibrate the framework while helping start-ups with real product challenges. ([read more](http://vcpm.org/))  
+Looking for ways to drive product success metrics more sustainably we designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In occasional ([Product Hours](http://vcpm.org/)) , we now calibrate the framework while helping start-ups with real product challenges.
 `olli` `phil` `joe` `jorrit`
 
 
