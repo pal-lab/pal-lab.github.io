@@ -4,16 +4,15 @@ layout: default
 
 # [](#header-1)Projects
 
+## [](#header-2)MBA World Summit
+
+Since 2016, we've helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and analyzing visitor behavior to reallocate marketing campaign budgets. Check it out [here](http://admissions.mbaworldsummit.com/).  
+`phil` `joe` 
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
 
 In 2017 we were looking for ways to drive product success metrics more sustainably and designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In occasional _Product Hours_, we calibrate the framework while helping start-ups with real product challenges. ([read more](http://vcpm.org/))  
 `olli` `phil` `joe` `jorrit`
-
-## [](#header-2)MBA World Summit
-
-In 2016, we helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and analyzing visitor behavior to reallocate marketing campaign budgets. Check it out [here](http://admissions.mbaworldsummit.com/).  
-`phil` `joe` 
 
 
 ## [](#header-2)Junto
