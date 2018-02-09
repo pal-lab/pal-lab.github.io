@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## imprint
+## Imprint
 
 Angaben gemäß § 5 TMG:
 

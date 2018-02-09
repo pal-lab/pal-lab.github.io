@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## about
+## About
 
-If you want to get in touch, drop us a message via [info@pallab.io](info@pallab.io)
+If you want to get in touch, drop us a message via [info@pallab.io](mailto:info@pallab.io)
 
 [back](./)
