@@ -7,7 +7,7 @@ layout: default
 
 ## [](#header-2)Value-Centric Product Management
 
-In 2017 we asked us how we might drive product success metrics more sustainably and designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. The resulting MVP was 'Product Hour', a format in which we now calibrate the framework while helping start-ups with real product challenges. ([read more](http://vcpm.org/))  
+In 2017 we asked us how we might drive product success metrics more sustainably and designed a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In occasional _Product Hours_, we calibrate the framework while helping start-ups with real product challenges. ([read more](http://vcpm.org/))  
 `olli` `phil` `joe` `jorrit`
 
 ## [](#header-2)MBA World Summit
