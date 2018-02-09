@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## about
 
-_yay_
+If you want to get in touch, drop us a message via info@pallab.io
 
 [back](./)
