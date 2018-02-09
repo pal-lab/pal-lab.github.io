@@ -24,7 +24,6 @@ On a hackathon in 2016, we built a social habit tracking app for fun. It has sin
 ## [](#header-2)World Bank Youth Summit
 
 In 2016, we discussed ways to mitigate youth unemployment in Europe in the context of the World Bank Youth Summit. The result of the session was a proposal for a web platform paving the way from education to employment.([read more](https://slack-files.com/T04HW89Q0-F2JBVQZ5F-b25d555850))  
-
 `alex` `sven` `phil` `chris` 
 
 
@@ -34,10 +33,4 @@ In 2015, we tried to ease the pain that often starts when 3+ people try to find 
 `jorrit` `phil` `sven` `gregor` `joe`
 
 
-## [](#header-2)Johnson Controls
-
-In 2014, we helped Johnson Controls define a new product vision that radically prioritized customer needs. Two years later, the resulting industry-first product was presented at the world's leading trade show for industrial technology in Hannover ([read more](http://www.johnsoncontrols.com/de_de/-/media/jci/be/germany/chillers/files/be_ykwkk_brochure_de.pdf?la=de)).  
-`phil`
-
-
-[About](pals).
+[About](pals)
