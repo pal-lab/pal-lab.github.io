@@ -33,4 +33,4 @@ In 2015, we tried to ease the pain that often starts when 3+ people try to find 
 `jorrit` `phil` `sven` `gregor` `joe`
 
 
-[About](pals)
+[About](about)
