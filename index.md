@@ -17,4 +17,4 @@ On a hackathon in 2016, we built a social habit tracking app for fun. It has sin
 
 ## [](#header-2)Johnson Controls
 
-In 2014, we helped Johnson Controls define a new product vision based on extensive interviews with customers and stakeholders. The new approach challenged the status quo and in 2016 the industry-first product was presented at the world's leading trade show for industrial technology in Hannover ([read more](http://www.johnsoncontrols.com/de_de/-/media/jci/be/germany/chillers/files/be_ykwkk_brochure_de.pdf?la=de)).
+In 2014, we helped Johnson Controls define a new product vision that radically prioritized customer needs. Two years later, the resulting industry-first product was presented at the world's leading trade show for industrial technology in Hannover ([read more](http://www.johnsoncontrols.com/de_de/-/media/jci/be/germany/chillers/files/be_ykwkk_brochure_de.pdf?la=de)).
