@@ -4,6 +4,6 @@ layout: default
 
 ## about
 
-If you want to get in touch, drop us a message via [Android](info@pallab.io)
+If you want to get in touch, drop us a message via [info@pallab.io](info@pallab.io)
 
 [back](./)
