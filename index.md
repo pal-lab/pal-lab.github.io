@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Projects
+# [](#header-1)pal.lab
 
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
