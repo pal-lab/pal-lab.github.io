@@ -4,15 +4,21 @@ layout: default
 
 # [](#header-1)Projects
 
+## [](#header-2)Value-Centric Product Management (VCPM)
+
+In search of ways to drive business metrics more sustainably we built a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In *Product Hours* we calibrate the framework while helping start-ups with real product challenges. ([More info](http://vcpm.org/))  
+`olli` `phil` 
+
+## [](#header-2)Habit Referee
+
+We built a chatbot prototype to help users to build habits using behavioral science. As an iterated version of the habit tracking app junto, this prototype solely focuses on the user need *Accountability* ([Try it out](https://chatfuel.com/bot/habitreferee))  
+`phil` `joe`
+
+
 ## [](#header-2)MBA World Summit
 
 In 2016, we've helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and reallocating campaign budgets based on visitor behavior analysis. ([Check out the result](http://admissions.mbaworldsummit.com/))  
-`phil` `joe` 
-
-## [](#header-2)Value-Centric Product Management (VCPM)
-
-In search of ways to drive business metrics more sustainably we built a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In [Product Hours](http://vcpm.org/) we calibrate the framework while helping start-ups with real product challenges.  
-`olli` `phil` `joe` `jorrit`
+`phil` `joe` `sven` 
 
 
 ## [](#header-2)Junto
