@@ -11,7 +11,7 @@ In search of ways to drive business metrics more sustainably we built a measurem
 
 ## [](#header-2)Habit Referee
 
-We built a chatbot prototype to help users to build habits using behavioral science. As an iterated version of the habit tracking app junto, this prototype solely focuses on the user need *Accountability* ([Try it out](https://chatfuel.com/bot/habitreferee))  
+We built a chatbot prototype to help users to build habits using behavioral science. As an iterated version of the habit tracking app junto, this prototype solely focuses on the user need *Accountability*. ([Try it out](https://chatfuel.com/bot/habitreferee))  
 `phil` `joe`
 
 
