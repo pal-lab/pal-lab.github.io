@@ -8,6 +8,9 @@ layout: default
 
 We've helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and reallocating campaign budgets based on visitor behavior analysis.
 
+## [](#header-2)Layher
+We replaced four different CRM systems for vendors of [Layher](http://www.layher-bautechnik.de/en/) by implementing a cloud based CRM solution that reduced processing costs for orders by 30%. Moreover, our solution enabled vendors to find hidden insights and sales opportunities through data analysis.
+
 ## [](#header-2)Value-Centric Product Management (VCPM)
 
 In search of ways to drive business metrics more sustainably we built a measurement framework that describes how features deliver on each of the dimensions in which a product creates user value. In *Product Hours* we calibrate the framework while helping start-ups with real product challenges. ([More info](http://vcpm.org/))  
