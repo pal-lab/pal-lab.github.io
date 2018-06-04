@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Selected Projects
+## [](#header-3)selected projects
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# [](#header-1)Contact
+# [](#header-1)contact
 Need a customized website or app? Get in touch!
 
 email: [contact@pallab.io](mailto:contact@pallab.io)
@@ -9,7 +9,7 @@ email: [contact@pallab.io](mailto:contact@pallab.io)
 phone: +49172 1436565
 
 
-# [](#header-1)[projects](projects) 
+# [](#header-1)[selected projects](projects) 
 
 
 
