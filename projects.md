@@ -6,10 +6,10 @@ layout: default
 
 ## [](#header-2)MBA World Summit
 
-We've helped the [MBA World Summit](http://mbaworldsummit.com/) conference to increase the number of applications by 2x and cut internal application handling efforts by ~40% by building an application platform incl. payment integration and reallocating campaign budgets based on visitor behavior analysis.
+We've helped the [MBA World Summit](http://mbaworldsummit.com/) to increase the number of applications by 2x and cut internal application handling efforts by ~40% by building an application platform incl. payment integration and reallocating campaign budgets based on visitor behavior analysis.
 
 ## [](#header-2)Layher
-We replaced four different CRM systems for [Layher](http://www.layher-bautechnik.de/en/) by implementing a cloud based CRM solution that reduced processing costs for orders by 30%. Our solution also enabled Layher to discover new sales opportunities through pattern recognition in customers’ purchasing data, which contributed to a 25% year-over-year increase in revenue.
+For [Layher](http://www.layher-bautechnik.de/en/), we replaced four legacy CRM systems and implemented a cloud-based CRM solution that reduced processing costs for orders by 30%. Our solution also enabled Layher to discover new sales opportunities through pattern recognition in customers’ purchasing data, which contributed to a 25% year-over-year increase in revenue.
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
 
