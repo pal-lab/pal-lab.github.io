@@ -6,12 +6,14 @@ layout: default
 
 Angaben gemäß § 5 TMG:
 
+pallab GbR
+
 Philipp Terres
 
 Marienstrasse 49
 
 76137 Karlsruhe
 
-Kontakt: [phil@pallab.io](mailto:phil@pallab.io)
+Kontakt: [philippterres@pallab.io](mailto:philippterres@pallab.io)
 
 [back](./)
