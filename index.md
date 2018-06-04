@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
+# [](#header-1)Need a customized website or app? Say hello!
+## [](#header-3) email: [contact@pallab.io](mailto:contact@pallab.io)
+## [](#header-3) phone: +49172 1436565
 
-# [](#header-1)Projects
+
+
+
+# [](#header-1)Selected Projects
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
 
