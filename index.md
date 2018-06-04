@@ -14,4 +14,4 @@ phone: +49172 1436565
 Check out some of our [previous projects](projects)
 
 * * *
-[](#header-6)[imprint](imprint) • [](#header-6)[contact](contact) 
+[](#header-6)[imprint](imprint)

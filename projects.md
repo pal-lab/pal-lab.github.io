@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [](#header-3)selected projects
+## [](#header-3)[selected projects]
 
 ## [](#header-2)MBA World Summit
 
