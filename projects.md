@@ -6,7 +6,7 @@ layout: default
 
 ## [](#header-2)MBA World Summit
 
-We've helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and reallocating campaign budgets based on visitor behavior analysis. ([Check out the result](http://admissions.mbaworldsummit.com/))  
+We've helped the [MBA World Summit](http://mbaworldsummit.com/) to double the number of applications and cut internal application handling efforts by 40% by building an application platform incl. payment integration and reallocating campaign budgets based on visitor behavior analysis.
 
 ## [](#header-2)Value-Centric Product Management (VCPM)
 
