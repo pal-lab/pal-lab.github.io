@@ -5,10 +5,11 @@ layout: default
 Need a customized website or app? Get in touch!
 
 email: [contact@pallab.io](mailto:contact@pallab.io)
+
 phone: +49172 1436565
 
 
-# [](#header-2)[contact](contact) 
+# [](#header-2)[projects](projects) 
 
 
 
