@@ -18,6 +18,6 @@ In search of ways to drive business metrics more sustainably we built a measurem
 
 ## [](#header-2)Junto
 
-We've created a social habit tracking app that leverages behavioral science to help you build healthy habits with friends. Get Junto now for [Android](https://play.google.com/store/apps/details?id=io.pallab.junto) or [iOS](https://itunes.apple.com/us/app/junto-mutual-improvement/id1326121611?mt=8) and build healthy habits together with friends for extra motivation and accountability.   
+We've created the social habit tracking [Junto](http://vcpm.org/), which uses behavioral science to help users achieve personal goals by building good habits and breaking bad ones - together. Get Junto now for [Android](https://play.google.com/store/apps/details?id=io.pallab.junto) or [iOS](https://itunes.apple.com/us/app/junto-mutual-improvement/id1326121611?mt=8) and build healthy habits together with friends for extra motivation and accountability.   
 
 [back](./)
